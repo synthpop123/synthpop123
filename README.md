@@ -17,4 +17,4 @@ Here are some ideas to get you started:、
 - ✨ How to get in touch:
   * You can chat with me through [Telegram](https://t.me/lkw123)
   * You can visit my [Twitter](https://twitter.com/whoamamamiii) either
-  * Apart from that, you can simply [email](mailto:lkw20010211@gmail.com) me
+  * Apart from that, you can simply [Email](mailto:lkw20010211@gmail.com) me
