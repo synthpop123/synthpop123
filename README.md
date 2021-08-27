@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Nameless!
+# Hi there! 👋
 
 <!--
 **synthpop123/synthpop123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
