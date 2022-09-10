@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++/Java/Python/JavaScript etc.
 - 📫 Here is my [Homepage](https://www.lkwplus.com/), and you can visit my blog [Here](https://blog.lkwplus.com).
 - ✨ How to get in touch:
-  * You can chat with me through [Telegram](https://t.me/lvlxlolxlvl)
+  * You can chat with me through [Telegram](https://t.me/lkwtg)
   * You can visit my [Twitter](https://twitter.com/whoamamamiii) either
   * Apart from that, you can simply [Email](mailto:me@lkwplus.com) me
