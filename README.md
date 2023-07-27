@@ -11,7 +11,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/synthpop123/count.svg" />
 </p>
 
-- 🔭 I’m currently studying Computer Science in Peking University.
+<!-- - 🔭 I’m currently studying Computer Science in Peking University.-->
 - 🌱 I’m currently learning C++/Java/Python/JavaScript etc.
 - 📫 Here is my [Homepage](https://www.lkwplus.com/), and you can visit my blog [Here](https://blog.lkwplus.com).
 - ✨ How to get in touch:
