@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--
   * You can chat with me through [Telegram](https://t.me/lkwtg)
   * You can visit my [Twitter](https://twitter.com/whoamamamiii) either
-  * Apart from that, you can simply [Email](mailto:me@lkwplus.com) me
+  * Apart from that, you can simply [Email](mailto:me@lkwplus.com) me-->
 - Skills and tools:
 
   ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
   ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
   ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -43,4 +44,3 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
   ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
--->
