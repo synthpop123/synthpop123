@@ -11,7 +11,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/synthpop123/count.svg" />
 </p>
 
-<!-- - 🔭 I’m currently studying Computer Science in Peking University.-->
+<!-- -  I’m currently studying Computer Science in Peking University.-->
 - 🌱 I’m currently learning Rust/JavaScript etc.
 - 📫 Here is my [Homepage](https://www.lkwplus.com/), and you can visit my blog [Here](https://blog.lkwplus.com).
 - ✨ How to get in touch:
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   * You can chat with me through [Telegram](https://t.me/lkwtg)
   * You can visit my [Twitter](https://twitter.com/whoamamamiii) either
   * Apart from that, you can simply [Email](mailto:me@lkwplus.com) me-->
-- Skills and tools:
+- 🔭 Skills and tools:
 
   ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
