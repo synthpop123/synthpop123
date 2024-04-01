@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- -  I’m currently studying Computer Science in Peking University.-->
-- 🌱 I’m currently learning Rust/JavaScript etc.
+- 🌱 I’m currently learning Rust.
 - 📫 Here is my [Homepage](https://www.lkwplus.com/), and you can visit my blog [Here](https://blog.lkwplus.com).
 - ✨ How to get in touch:
   
