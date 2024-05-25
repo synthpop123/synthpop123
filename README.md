@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-## Hi, I'm lkw123! 🌱
+## Hello world! 🌱
 
 <p align="center"> 
   Visitor count<br>
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ```javascript
 const lkw123 = {
     pronouns: ["He", "Him"],
-    mbti: "INTP (introverted, intuitive, thinking and perceiving)",
     motto: "Be creative & keep learning.",
+    mbti: "INTP (introverted, intuitive, thinking and perceiving)",
     homepageURL: "https://www.lkwplus.com/",
     blogURL: "https://blog.lkwplus.com/",
     statuspageURL: "https://status.lkwplus.com/",
