@@ -55,32 +55,6 @@ const lkw123 = {
 | Miscs       | ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square) ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat-square) ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat-square) ![Vim Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat-square) ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square)                                                                                                        |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%206%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 93.1 kB Used in GitHub's Storage 
- > 
-> 🏆 141 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 19 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                96 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-🌆 Daytime                226 commits         █████████░░░░░░░░░░░░░░░░   36.33 % 
-🌃 Evening                268 commits         ███████████░░░░░░░░░░░░░░   43.09 % 
-🌙 Night                  32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -104,24 +78,8 @@ Windows                  11 hrs 30 mins      ███████████�
 Mac                      1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 ```
 
-**I Mostly Code in JavaScript** 
 
-```text
-JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-TeX                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Vim Script               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/synthpop123/synthpop123/main/assets/bar_graph.png)
-
-
- Last Updated on 25/05/2024 10:47:28 UTC
+ Last Updated on 25/05/2024 11:23:49 UTC
 <!--END_SECTION:waka-->
 
 
