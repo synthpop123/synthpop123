@@ -37,6 +37,17 @@ Here are some ideas to get you started:
   - **Miscellaneous**:
 
     ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square) ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat-square) ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat-square) ![Vim Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat-square) ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square)
+
+#### Coding status last week
+
+<a href="https://www.last.fm/user/synthpop123">
+   <img align="right" src="https://lastfm-recently-played.vercel.app/api?user=synthpop123&count=4&width=300&header_size=compact" alt="Last.fm Status">
+</a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
   <!--![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
