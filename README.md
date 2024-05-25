@@ -45,6 +45,15 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
+
+```txt
+Python             10 hrs 3 mins   ██████████████████▓░░░░░░   74.82 %
+Markdown           46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+Other              40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+TypeScript         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+CSS                19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+```
+
 <!--END_SECTION:waka-->
 
 
