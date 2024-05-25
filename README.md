@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 #### Coding status last week
 
 <a href="https://www.last.fm/user/synthpop123">
-   <img align="right" src="https://lastfm-recently-played.vercel.app/api?user=synthpop123&count=4&width=300&header_size=compact" alt="Last.fm Status">
+   <img align="right" src="https://lastfm-recently-played.vercel.app/api?user=synthpop123&count=4&width=300&footer_style=compact_stats" alt="Last.fm Status">
 </a>
 
 <!--START_SECTION:waka-->
