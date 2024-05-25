@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square)](mailto:me@lkwplus.com)-->
 
 <a href="https://www.last.fm/user/synthpop123">
-   <img align="right" src="https://lastfm-recently-played.vercel.app/api?user=synthpop123&count=5&width=300&footer_style=compact_stats" alt="Last.fm Status">
+   <img align="right" src="https://lastfm-recently-played.vercel.app/api?user=synthpop123&count=4&width=300&footer_style=compact_stats" alt="Last.fm Status">
 </a>
 
 ✨ **Basic Info**
