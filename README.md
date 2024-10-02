@@ -32,13 +32,13 @@ const lkw123 = {
     pronouns: ["He", "Him"],
     motto: "Be creative & keep learning.",
     mbti: "INTP (introverted, intuitive, thinking and perceiving)",
-    homepageURL: "https://lkwplus.com/",
-    blogURL: "https://blog.lkwplus.com/",
-    statuspageURL: "https://status.lkwplus.com/",
+    homepageURL: "https://lkwplus.com",
+    blogURL: "https://blog.lkwplus.com",
+    statuspageURL: "https://status.lkwplus.com",
     contactInfo: {
         email: "lkw20010211[at]gmail.com",
-        telegram: "https://t.me/lkwtg/",
-        twitter: "https://twitter.com/whoamamamiii/"
+        telegram: "https://t.me/lkwtg",
+        twitter: "https://twitter.com/whoamamamiii"
     }
 };
 ```
