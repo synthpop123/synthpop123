@@ -36,9 +36,9 @@ const lkw123 = {
     blogURL: "https://blog.lkwplus.com",
     statuspageURL: "https://status.lkwplus.com",
     contactInfo: {
-        email: "lkw20010211[at]gmail.com",
+        email: "mailto:hi@lkwplus.com",
         telegram: "https://t.me/lkwtg",
-        twitter: "https://twitter.com/whoamamamiii"
+        twitter: "https://x.com/whoamamamiii"
     }
 };
 ```
