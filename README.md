@@ -7,10 +7,7 @@ Here are some ideas to get you started:
 
 ## Hello world! 🌱
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://komarev.com/ghpvc/?username=synthpop123&style=for-the-badge&base=7234" />
-</p>
+![](https://komarev.com/ghpvc/?username=synthpop123&style=for-the-badge&base=7234")
 
 <!-- -  I’m currently studying Computer Science in Peking University.
  - 🌱 Be **creative** & keep **learning**.
