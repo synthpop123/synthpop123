@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/synthpop123/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=synthpop123&style=for-the-badge&base=7234" />
 </p>
 
 <!-- -  I’m currently studying Computer Science in Peking University.
