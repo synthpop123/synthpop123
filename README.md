@@ -58,13 +58,14 @@ const lkw123 = {
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   50 mins             █████████████████░░░░░░░░   68.14 % 
+Other                    23 mins             ████████░░░░░░░░░░░░░░░░░   31.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 14 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 
