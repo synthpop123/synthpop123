@@ -58,15 +58,13 @@ const lkw123 = {
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     10 mins             ███████████████░░░░░░░░░░   61.66 % 
-Astro                    6 mins              █████████░░░░░░░░░░░░░░░░   37.86 % 
-MDX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+YAML                     10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   16 mins             █████████████████████████   100.00 % 
+Cursor                   10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 
