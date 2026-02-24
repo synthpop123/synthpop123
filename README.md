@@ -34,7 +34,7 @@ const lkw123 = {
     statuspageURL: "https://status.lkwplus.com",
     contactInfo: {
         email: "mailto:hi@lkwplus.com",
-        telegram: "https://t.me/lkwtg",
+        telegram: "https://t.me/lkw123",
         twitter: "https://x.com/whoamamamiii"
     }
 };
