@@ -58,17 +58,17 @@ const lkw123 = {
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               44 mins             ████████████░░░░░░░░░░░░░   48.29 % 
-Bash                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-YAML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Astro                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+TypeScript               2 hrs 21 mins       ███████████░░░░░░░░░░░░░░   42.14 % 
+Python                   2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.41 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-Cursor                   1 hr 32 mins        █████████████████████████   100.00 % 
+Cursor                   5 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 32 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
