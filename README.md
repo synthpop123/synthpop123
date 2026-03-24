@@ -58,16 +58,13 @@ const lkw123 = {
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 mins              ██████████████████░░░░░░░   72.89 % 
-JSON                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+JSON                     2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   12 mins             █████████████████████████   100.00 % 
+Cursor                   2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████░░░░   82.78 % 
-Mac                      2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 
