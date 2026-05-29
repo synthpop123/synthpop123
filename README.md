@@ -52,28 +52,5 @@ const lkw123 = {
 | Misc       | ![Linux Badge](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white&style=flat-square) ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=white&style=flat-square) ![GraphQL Badge](https://img.shields.io/badge/GraphQL-000?logo=graphql&logoColor=white&style=flat-square) ![Vim Badge](https://img.shields.io/badge/Vim-000?logo=vim&logoColor=white&style=flat-square) ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white&style=flat-square)                                                                                                        |
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-YAML                     1 hr 47 mins        ████████████████░░░░░░░░░   65.67 % 
-JavaScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-
-🔥 Editors: 
-Cursor                   1 hr 55 mins        ██████████████████░░░░░░░   70.48 % 
-Claude Code              23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Unknown Editor           21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Zed                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-
-💻 Operating System: 
-Mac                      2 hrs 27 mins       ███████████████████████░░   90.10 % 
-Windows                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-```
-
 
 <!--END_SECTION:waka-->
