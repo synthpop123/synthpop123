@@ -58,19 +58,18 @@ const lkw123 = {
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 57 mins       ███████████████░░░░░░░░░░   58.90 % 
-TypeScript               43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-YAML                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-SSH Config               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Makefile                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Markdown                 2 hrs 46 mins       █████████████████░░░░░░░░   67.59 % 
+YAML                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+SSH Config               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Makefile                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔥 Editors: 
-Zed                      2 hrs 50 mins       ██████████████░░░░░░░░░░░   56.60 % 
-Claude Code              2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.15 % 
-VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Zed                      2 hrs 50 mins       █████████████████░░░░░░░░   69.25 % 
+Claude Code              1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   30.75 % 
 
 💻 Operating System: 
-Mac                      5 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      4 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 
