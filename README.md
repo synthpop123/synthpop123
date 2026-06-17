@@ -30,7 +30,6 @@ const lkw123 = {
     motto: "Be creative & keep learning.",
     mbti: "INTP (introverted, intuitive, thinking and perceiving)",
     homepageURL: "https://lkwplus.com",
-    blogURL: "https://blog.lkwplus.com",
     statuspageURL: "https://status.lkwplus.com",
     contactInfo: {
         email: "mailto:hi@lkwplus.com",
