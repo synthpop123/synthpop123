@@ -57,17 +57,18 @@ const lkw123 = {
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 27 mins        █████████████░░░░░░░░░░░░   52.72 % 
-Python                   45 mins             ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-YAML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Image (png)              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Markdown                 2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+Text                     2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+Python                   1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+YAML                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Other                    1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 46 mins       █████████████████████████   100.00 % 
+Cursor                   8 hrs 2 mins        ███████████████████░░░░░░   76.37 % 
+Claude Code              2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
 
 💻 Operating System: 
-Mac                      2 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 
