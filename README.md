@@ -57,18 +57,18 @@ const lkw123 = {
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               4 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-Astro                    2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Markdown                 2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Image (png)              1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Rust                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+TypeScript               2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+Markdown                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Astro                    1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Rust                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+CSS                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 55 mins       ██████████████░░░░░░░░░░░   57.44 % 
-Claude Code              6 hrs 36 mins       ███████████░░░░░░░░░░░░░░   42.56 % 
+Cursor                   8 hrs 44 mins       █████████████████████████   99.88 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Mac                      15 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 
