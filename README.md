@@ -51,24 +51,50 @@ const lkw123 = {
 | Misc       | ![Linux Badge](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white&style=flat-square) ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=white&style=flat-square) ![GraphQL Badge](https://img.shields.io/badge/GraphQL-000?logo=graphql&logoColor=white&style=flat-square) ![Vim Badge](https://img.shields.io/badge/Vim-000?logo=vim&logoColor=white&style=flat-square) ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white&style=flat-square)                                                                                                        |
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2043%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-Astro                    1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Rust                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Markdown                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-CSS                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+TOML                     17 mins             █████████░░░░░░░░░░░░░░░░   35.24 % 
+Docker                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+JSON                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Astro                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 38 mins       █████████████████████████   99.81 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Cursor                   50 mins             █████████████████████████   98.75 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Mac                      5 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      51 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 51 mins (100.0%)
+
+✍️ 10 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $7.85 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 5 AI Prompts
+
+Cursor                   27 lines            █████████████████░░░░░░░░   69.23 % 
+Composer                 10 lines            ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Fable                    2 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 746 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
