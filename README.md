@@ -59,40 +59,41 @@ const lkw123 = {
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TOML                     17 mins             █████████░░░░░░░░░░░░░░░░   35.24 % 
-Docker                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-JSON                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Astro                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+TOML                     17 mins             ████████████░░░░░░░░░░░░░   48.62 % 
+Docker                   8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 🔥 Editors: 
-Cursor                   50 mins             █████████████████████████   98.75 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Cursor                   36 mins             █████████████████████████   98.27 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 💻 Operating System: 
-Mac                      51 mins             █████████████████████████   100.00 % 
+Mac                      36 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 mins (100.0%)
+⏱ AI Coding Time: 36 mins (100.0%)
 
-✍️ 10 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 12,200 Input Tokens, 30 Output Tokens
 
-💵 $7.85 Estimated AI Cost This Week
+💵 $7.91 Estimated AI Cost This Week
 
 🧠 4 AI Sessions, 5 AI Prompts
 
-Cursor                   27 lines            █████████████████░░░░░░░░   69.23 % 
-Composer                 10 lines            ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-Fable                    2 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Cursor                   27 lines            ███████████████████░░░░░░   75.00 % 
+Composer                 7 lines             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Fable                    2 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 746 characters per prompt
+📄 Detailed Prompter — average 738 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
