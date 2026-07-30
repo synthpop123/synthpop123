@@ -59,42 +59,45 @@ const lkw123 = {
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TOML                     17 mins             ████████████░░░░░░░░░░░░░   48.62 % 
-Docker                   8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+TypeScript               2 hrs 18 mins       ███████████░░░░░░░░░░░░░░   43.78 % 
+Markdown                 1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Astro                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 Editors: 
-Cursor                   36 mins             █████████████████████████   98.27 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Zed                      4 hrs 19 mins       ████████████████████░░░░░   82.00 % 
+Claude Code              35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Cursor                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Grok Build               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.00 % 
+Mac                      5 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 16 mins (100.0%)
 
-✍️ 7 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,917 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 12,200 Input Tokens, 30 Output Tokens
+🔤 8,696,576 Input Tokens, 41,771 Output Tokens
 
-💵 $7.91 Estimated AI Cost This Week
+💵 $43.47 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 5 AI Prompts
+🧠 16 AI Sessions, 39 AI Prompts
 
-Cursor                   27 lines            ███████████████████░░░░░░   75.00 % 
-Composer                 7 lines             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Fable                    2 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Fable                    3,476 lines         ██████████████████████░░░   86.60 % 
+Opus                     409 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Cursor                   129 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 738 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 319 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
