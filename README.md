@@ -51,7 +51,7 @@ const lkw123 = {
 | Misc       | ![Linux Badge](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white&style=flat-square) ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=white&style=flat-square) ![GraphQL Badge](https://img.shields.io/badge/GraphQL-000?logo=graphql&logoColor=white&style=flat-square) ![Vim Badge](https://img.shields.io/badge/Vim-000?logo=vim&logoColor=white&style=flat-square) ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white&style=flat-square)                                                                                                        |
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2058%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -59,42 +59,43 @@ const lkw123 = {
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 1 min         ████████████░░░░░░░░░░░░░   47.70 % 
-Astro                    46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Markdown                 45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Rust                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+TypeScript               3 hrs 10 mins       █████████████░░░░░░░░░░░░   53.97 % 
+Astro                    59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Markdown                 59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Rust                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 51 mins       █████████████████░░░░░░░░   67.15 % 
-VS Code                  34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Cursor                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Zed                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Claude Code              4 hrs 24 mins       ███████████████████░░░░░░   75.04 % 
+VS Code                  40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Cursor                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Zed                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 
 💻 Operating System: 
-Mac                      4 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 13 mins (99.29%)
+⏱ AI Coding Time: 5 hrs 50 mins (99.49%)
 
-✍️ 1,849 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,114 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 69,846,784 Input Tokens, 302,748 Output Tokens
+🔤 87,188,546 Input Tokens, 400,818 Output Tokens
 
-💵 $345.15 Estimated AI Cost This Week
+💵 $429.53 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 53 AI Prompts
+🧠 31 AI Sessions, 65 AI Prompts
 
-Opus                     1,054 lines         █████████████░░░░░░░░░░░░   50.48 % 
-GPT                      955 lines           ███████████░░░░░░░░░░░░░░   45.74 % 
-Deepseek                 79 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Opus                     1,339 lines         ██████████████░░░░░░░░░░░   55.33 % 
+GPT                      976 lines           ██████████░░░░░░░░░░░░░░░   40.33 % 
+Deepseek                 105 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 13,026 characters per prompt
+📚 Verbose Prompter — average 10,764 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
