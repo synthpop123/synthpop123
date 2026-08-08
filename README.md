@@ -51,7 +51,7 @@ const lkw123 = {
 | Misc       | ![Linux Badge](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white&style=flat-square) ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=white&style=flat-square) ![GraphQL Badge](https://img.shields.io/badge/GraphQL-000?logo=graphql&logoColor=white&style=flat-square) ![Vim Badge](https://img.shields.io/badge/Vim-000?logo=vim&logoColor=white&style=flat-square) ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white&style=flat-square)                                                                                                        |
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-100%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-100%20hrs%2021%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -59,43 +59,44 @@ const lkw123 = {
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               4 hrs 33 mins       ██████████████░░░░░░░░░░░   55.61 % 
-Markdown                 1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Astro                    1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-systemd                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+TypeScript               3 hrs 32 mins       █████████████░░░░░░░░░░░░   53.87 % 
+Markdown                 1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Astro                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+systemd                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 43 mins       █████████████████████░░░░   82.10 % 
-VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Cursor                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Zed                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Claude Code              5 hrs 28 mins       █████████████████████░░░░   83.08 % 
+Cursor                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Zed                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 💻 Operating System: 
-Mac                      8 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 9 mins (99.63%)
+⏱ AI Coding Time: 6 hrs 33 mins (99.54%)
 
-✍️ 2,977 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,696 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 125,589,519 Input Tokens, 520,151 Output Tokens
+🔤 95,208,479 Input Tokens, 371,328 Output Tokens
 
-💵 $624.52 Estimated AI Cost This Week
+💵 $487.22 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 78 AI Prompts
+🧠 26 AI Sessions, 58 AI Prompts
 
-Opus                     2,257 lines         █████████████████░░░░░░░░   67.62 % 
-GPT                      976 lines           ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-Deepseek                 105 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Opus                     1,706 lines         ███████████████████████░░   91.77 % 
+Deepseek                 105 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+GPT                      48 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 9,181 characters per prompt
+📚 Verbose Prompter — average 3,429 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
