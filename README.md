@@ -59,44 +59,43 @@ const lkw123 = {
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 32 mins       █████████████░░░░░░░░░░░░   53.87 % 
-Markdown                 1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Astro                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-systemd                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+TypeScript               2 hrs 40 mins       ██████████████░░░░░░░░░░░   57.11 % 
+Markdown                 40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Astro                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+systemd                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 28 mins       █████████████████████░░░░   83.08 % 
-Cursor                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Zed                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Claude Code              4 hrs 20 mins       ███████████████████████░░   93.12 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 💻 Operating System: 
-Mac                      6 hrs 34 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 33 mins (99.54%)
+⏱ AI Coding Time: 4 hrs 40 mins (100.0%)
 
-✍️ 1,696 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,202 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 95,208,479 Input Tokens, 371,328 Output Tokens
+🔤 62,678,672 Input Tokens, 279,241 Output Tokens
 
-💵 $487.22 Estimated AI Cost This Week
+💵 $347.68 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 58 AI Prompts
+🧠 18 AI Sessions, 45 AI Prompts
 
-Opus                     1,706 lines         ███████████████████████░░   91.77 % 
-Deepseek                 105 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-GPT                      48 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Opus                     1,211 lines         ███████████████████████░░   90.58 % 
+Deepseek                 105 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+GPT                      21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,429 characters per prompt
+📚 Verbose Prompter — average 4,294 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
