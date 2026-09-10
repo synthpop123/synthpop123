@@ -59,47 +59,46 @@ const lkw123 = {
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-Other                    1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-Markdown                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-TypeScript               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-TOML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Other                    48 mins             ██████████░░░░░░░░░░░░░░░   40.65 % 
+Markdown                 28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+TypeScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 8 mins        █████████████████░░░░░░░░   69.88 % 
-Codex Vscode             44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Codex CLI                18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Agent                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Cursor                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Claude Code              1 hr 2 mins         █████████████░░░░░░░░░░░░   52.23 % 
+Codex Vscode             33 mins             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+Codex CLI                18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Cursor                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Linux                    2 hrs 43 mins       ███████████████░░░░░░░░░░   60.61 % 
-Mac                      1 hr 46 mins        ██████████░░░░░░░░░░░░░░░   39.39 % 
+Linux                    1 hr 1 min          █████████████░░░░░░░░░░░░   51.42 % 
+Mac                      58 mins             ████████████░░░░░░░░░░░░░   48.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 30 mins (100.0%)
+⏱ AI Coding Time: 1 hr 59 mins (100.0%)
 
-✍️ 131 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 91 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 910,708 Input Tokens, 108,693 Output Tokens
+🔤 603,224 Input Tokens, 58,195 Output Tokens
 
-💵 $21.63 Estimated AI Cost This Week
+💵 $15.49 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 86 AI Prompts
+🧠 28 AI Sessions, 39 AI Prompts
 
-GPT                      83 lines            ███████████████░░░░░░░░░░   58.04 % 
-Opus                     50 lines            █████████░░░░░░░░░░░░░░░░   34.97 % 
-Deepseek                 7 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Cursor                   3 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      77 lines            ████████████████████░░░░░   80.21 % 
+Opus                     19 lines            █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,000 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 343 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
