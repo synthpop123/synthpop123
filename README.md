@@ -51,7 +51,7 @@ const lkw123 = {
 | Misc       | ![Linux Badge](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white&style=flat-square) ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=white&style=flat-square) ![GraphQL Badge](https://img.shields.io/badge/GraphQL-000?logo=graphql&logoColor=white&style=flat-square) ![Vim Badge](https://img.shields.io/badge/Vim-000?logo=vim&logoColor=white&style=flat-square) ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white&style=flat-square)                                                                                                        |
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-185%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-186%20hrs%2053%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -59,40 +59,40 @@ const lkw123 = {
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 41 mins       ███████████░░░░░░░░░░░░░░   42.55 % 
-Other                    4 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.57 % 
-Python                   1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-YAML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-TypeScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Markdown                 5 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   39.70 % 
+Other                    4 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.46 % 
+Python                   1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+YAML                     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 18 mins      █████████████████████████   99.49 % 
-Zed                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Claude Code              14 hrs 15 mins      █████████████████████████   99.52 % 
+Zed                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Mac                      10 hrs 13 mins      ███████████████████░░░░░░   76.47 % 
-Linux                    3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Mac                      10 hrs 13 mins      ██████████████████░░░░░░░   71.37 % 
+Linux                    4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 18 mins (99.49%)
+⏱ AI Coding Time: 14 hrs 15 mins (99.52%)
 
-✍️ 1,599 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,724 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,230,410 Input Tokens, 1,113,287 Output Tokens
+🔤 5,565,281 Input Tokens, 1,163,766 Output Tokens
 
-💵 $107.77 Estimated AI Cost This Week
+💵 $113.17 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 125 AI Prompts
+🧠 33 AI Sessions, 136 AI Prompts
 
-Opus                     1,589 lines         █████████████████████████   99.37 % 
-DeepSeek                 10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Opus                     1,714 lines         █████████████████████████   99.42 % 
+DeepSeek                 10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,136 characters per prompt
+📄 Detailed Prompter — average 1,052 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
